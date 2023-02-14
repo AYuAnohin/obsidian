@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "5bda2e7d1591e1aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c768405fe2ff110c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. Git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17270a179759d674",
+    "type": "split",
+    "children": [
+      {
+        "id": "c04c86195ef12beb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ba0b0ddc1eff31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5d540245fdd16bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#programming/vcs/git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "80615305df816e41",
+    "type": "split",
+    "children": [
+      {
+        "id": "016e8de686d8ee56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fdd5c84eee82162",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9faae630422a8a3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72f870bdb33dcdc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Git.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "active": "f5d540245fdd16bb",
+  "lastOpenFiles": [
+    "Git - основные операции.md",
+    "1. Git.md",
+    "Git - gitignore.md",
+    "Glob-шаблоны.md",
+    "2. Git - хранение информации.md",
+    "Создание репозитория git.md",
+    "Git help.md",
+    "Система контроля версий.md",
+    "2. Git - первичная настройка.md",
+    "Хеш сумма.md"
+  ]
+}

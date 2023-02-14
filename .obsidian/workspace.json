@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "5bda2e7d1591e1aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "095a4cbebc48b498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f510df18337db70e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17270a179759d674",
+    "type": "split",
+    "children": [
+      {
+        "id": "c04c86195ef12beb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ba0b0ddc1eff31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5d540245fdd16bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#programming/internet",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "80615305df816e41",
+    "type": "split",
+    "children": [
+      {
+        "id": "016e8de686d8ee56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fdd5c84eee82162",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9faae630422a8a3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72f870bdb33dcdc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "f510df18337db70e",
+  "lastOpenFiles": [
+    "Интернет.md",
+    "Хост.md",
+    "Локальная сеть.md",
+    "Глобальная сеть.md",
+    "TCP/TCP - IP.md",
+    "ip-address.md",
+    "TCP.md",
+    "IP.md",
+    "Frontend-developer.md",
+    "Веб-программированние.md"
+  ]
+}
